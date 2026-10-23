@@ -1,4 +1,4 @@
-# Operations Reliability Engineering Portfolio
+# Information Technology Portfolio
 
 > Portfolio focused on production reliability, operational resilience, automation, and infrastructure modernization across cloud and on-prem environments.
 
@@ -7,7 +7,7 @@
 ## 👤 Author
 
 **Dennis Lubins**  
-Operations Reliability Engineer (SRE)
+Information Technology Support and Operations Specialist
 
 ---
 
